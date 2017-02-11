@@ -1,0 +1,130 @@
+alsa-firmware
+alsa-utils
+avahi
+>extra baobab
+>extra base-devel
+>extra blueberry
+cinnamon-sounds
+>extra cinnamon-wallpapers
+>extra dconf-editor
+dmidecode
+>extra ffmpegthumbnailer
+>extra firefox
+>extra flattr-icon-theme
+>extra galculator
+>extra gcolor2
+>extra gimp
+gksu
+>extra gnome-disk-utility
+gnome-keyring
+gnome-screenshot
+gnome-system-log
+gnome-system-monitor
+gnome-terminal
+>extra gparted
+>extra gst-libav
+>extra gst-plugins-bad
+>extra gst-plugins-base
+>extra gst-plugins-good
+>extra gst-plugins-ugly
+>extra gstreamer
+gvfs-afc
+gvfs-google
+gvfs-gphoto2
+gvfs-mtp
+gvfs-smb
+htop
+>extra hexchat
+>extra icedtea-web
+icon-naming-utils
+inxi
+>extra isousb
+>extra jre8-openjdk
+>extra jre8-openjdk-headless
+>extra libdvdcss
+>extra libgsf
+>extra libreoffice-fresh
+lightdm-gtk-greeter-settings
+manjaro-alsa
+manjaro-browser-settings
+manjaro-cinnamon-settings
+>extra manjaro-documentation
+manjaro-hello
+manjaro-hotfixes
+>extra manjaro-printer
+manjaro-pulse
+manjaro-settings-manager-notifier
+>extra mesa-demos
+>basic midori
+>extra mobile-broadband-provider-info
+>extra modemmanager
+>extra mousetweaks
+>extra mugshot
+>multilib lib32-mesa-demos
+>extra nemo-fileroller
+>extra nemo-preview
+>extra nemo-python
+>extra nemo-share
+netctl
+networkmanager-dispatcher-ntpd
+>extra npapi-vlc
+nss-mdns
+ntp
+numlockx
+openresolv
+openssh
+>extra openvpn
+>extra p7zip
+pamac
+>extra parcellite
+pavucontrol
+>extra pidgin-libnotify
+>extra pix
+>systemd plymouth-legacy
+>systemd plymouth-theme-manjaro-cinnamon
+>extra poppler-data
+>extra powertop
+>extra pragha
+>extra pulseaudio-bluetooth
+pulseaudio-ctl
+pulseaudio-gconf
+pulseaudio-zeroconf
+python2-ptyprocess
+python-ptyprocess
+qt5ct
+qt5-styleplugins
+screenfetch
+>extra system-config-printer
+terminus-font
+>extra thunderbird
+>extra transmission-gtk
+tree
+ttf-bitstream-vera
+ttf-dejavu
+ttf-droid
+ttf-inconsolata
+ttf-indic-otf
+ttf-liberation
+>extra udiskie
+vi
+>extra xcursor-chameleon-pearl-deepin
+xdg-su
+xdg-user-dirs
+xdg-user-dirs-gtk
+xdg-utils
+xed
+xf86-input-elographics
+xf86-input-evdev
+xf86-input-keyboard
+xf86-input-libinput
+xf86-input-mouse
+xf86-input-void
+xorg-server
+xorg-server-utils
+xorg-twm
+xorg-utils
+xorg-xinit
+>extra xplayer
+>extra xreader
+>extra xviewer-plugins
+>extra yaourt
