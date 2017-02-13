@@ -1,14 +1,13 @@
 [H[2J
 Manjaro Live ISO (\l) - \s-\r \m.
 
-############       Welcome to Manjaro       ############
-#                                                      #
-#                        login:                        #
-#                  user     'manjaro'                  #
-#                  password 'manjaro'                  #
-#                                                      #
-#            To launch the installer type:             #
-#                       'setup'                        #
-#                                                      #
-#                                                      #
+
+                 # Welcome to Manjaro #
+
+                         login:
+                   user     'manjaro'
+                   password 'manjaro'
+
+          To launch the installer type: 'setup'
+
 
