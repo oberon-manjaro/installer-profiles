@@ -1,13 +1,4 @@
 #!/bin/sh
 
-while [[ ! $(ping -c 2 google.com 2>/dev/null) ]]; do
-    clear
-    printf "\n    Manjaro-Architect needs internet access.
-    Please establish a connection ..."
-    sleep 3
-    sudo nmtui
-    clear
-done
-
 sudo manjaro-architect
 
