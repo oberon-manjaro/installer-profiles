@@ -3,7 +3,7 @@ KERNEL-ndiswrapper
 KERNEL-r8168
 KERNEL-rt3562sta
 KERNEL-virtualbox-guest-modules
-manjaro-architect
+manjaro-architect-launcher
 manjaro-hotfixes
 manjaro-syslinux-theme
 mkinitcpio-nfs-utils
